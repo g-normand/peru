@@ -1,0 +1,4 @@
+bs4
+requests
+xlrd==1.2.0
+xlutils
